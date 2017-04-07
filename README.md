@@ -1,4 +1,4 @@
-# rightsandresources
+# Rightsandresources
 An information hub for progressive non-profit organizations
 
 ## Details
