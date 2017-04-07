@@ -1,7 +1,7 @@
 # rightsandresources
 An information hub for progressive non-profit organizations
 
-## Deatils
+## Details
   
   1. Using a carousel I added powerful imagery to illustrate the issues addressed in the site.
   2. Each topic has its own dedicated panel containing modals and links to the premire non-profit organizations in that field.
