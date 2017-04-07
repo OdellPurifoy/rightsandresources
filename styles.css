@@ -1,0 +1,136 @@
+/** Imported google font**/
+@import url('https://fonts.googleapis.com/css?family=Archivo+Black|Lalezar|Lilita+One');
+@import url('https://fonts.googleapis.com/css?family=Lalezar');
+
+
+
+/** Start of body styles**/
+body{
+    background-color: white;
+    
+}
+/** End of body styles**/
+
+/** navigation **/
+.navbar{
+   padding-top: 20px; 
+   
+}
+.navbar-default{
+    background-color: transparent;
+    border: none;
+}
+
+.navbar-default .navbar-brand{
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 25px;
+    color: #337ba7;
+}
+/** End of navigation elements**/
+
+
+/** Start of Modal styles**/
+#modalLabel.modal-title{
+   font-family: 'Lalezar', cursive;
+   color: #337ba7;
+}
+/** End of Moday styles**/
+
+
+/** Start of heading styles**/
+h3#contact{
+   font-family: 'Archivo Black', sans-serif;
+   color: #337ba7;
+}
+
+
+h3#mission{
+   font-family: 'Archivo Black', sans-serif;
+   color: #337ba7;
+   padding-top: 100px;
+}
+
+h3#indivisible{
+   font-family: 'Archivo Black', sans-serif;
+   color: #337ba7;
+}
+/** End of heading styles **/
+
+
+
+/** Start Mission Statement styles**/
+#mission.container{
+    margin-bottom: 50px;
+    
+}
+/** End of Mission Stattement styles**/
+
+
+#panelcontainer{
+    padding-bottom: 50px;
+}
+
+
+
+/** Start of twitter styles**/
+#twittercolumn{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: white;
+}
+/** End of form styles**/
+
+
+/** Start of twitter styles **/
+#contactcolumn.col-lg-6{
+    padding-left: 150px;
+    padding-bottom: 60px;
+}
+/** End of twitter styles **/
+
+
+
+/** Start of panel styles **/
+.panel.panel-primary{
+    width: 260.500px;
+    height: 425px;
+}
+
+#climatefoot.panel-footer{
+    padding-bottom: 110px;
+}
+
+#lgbtfoot.panel-footer{
+    padding-bottom: 90px;
+}
+
+
+#womenfoot.panel-footer{
+    padding-bottom: 70px;
+}
+
+
+
+#civilfoot.panel-footer{
+    padding-bottom: 29px;
+}
+/** End of panel styles **/
+
+
+
+/*indivisible section styles*/
+#indivisiblediv{
+    padding-top: 50px;
+    padding-bottom: 230px;
+    background-color: white;
+}
+
+#indimage{
+    padding-right: 15px;
+}
+
+/** Start of footer styles**/
+footer .container{
+    padding-top: 30px;
+}
+/** End of footer styles**/
